@@ -4,3 +4,4 @@ mobile/dist/
 mobile/web-build/
 *.log
 .env*
+preview/github-verification.png

@@ -2,8 +2,6 @@
 
 Native iPhone and Android prototype built with Expo, React Native and TypeScript. A browser preview is included for design review. This is an independent concept, not a published or officially endorsed app.
 
-## Run
-
 ## Phone preview on GitHub Pages
 
 The `.github/workflows/pages.yml` workflow builds and publishes the browser version whenever `main` is updated. In the repository's **Settings → Pages**, select **GitHub Actions** as the source. The workflow reports the live preview URL after successful deployment. Open that URL in Safari or Chrome on your phone; it does not require Expo Go or this computer to remain on. This preview does not install the native app or submit it to either app store.
