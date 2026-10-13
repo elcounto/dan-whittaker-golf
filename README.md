@@ -4,6 +4,14 @@ Native iPhone and Android prototype built with Expo, React Native and TypeScript
 
 ## Run
 
+## Phone preview on GitHub Pages
+
+The `.github/workflows/pages.yml` workflow builds and publishes the browser version whenever `main` is updated. In the repository's **Settings → Pages**, select **GitHub Actions** as the source. The workflow reports the live preview URL after successful deployment. Open that URL in Safari or Chrome on your phone; it does not require Expo Go or this computer to remain on. This preview does not install the native app or submit it to either app store.
+
+`mobile/scripts/prepare-pages.mjs` makes exported asset paths relative so the preview works under the repository URL.
+
+## Local development
+
 From `mobile`:
 
 ```powershell
