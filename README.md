@@ -28,7 +28,7 @@ Scan the Expo QR code with a compatible Expo Go version on a phone on the same n
 - Website cart button using the exact URL supplied: https://danwhittakergolf.com/cart.
 - Verified official downloads, lessons and Team DWG links.
 
-Links open externally. No videos are downloaded or rehosted. The first two playlist labels are editorial because their actual titles could not be retrieved. Playlist cards use original typography rather than unverified thumbnails. This is a static curated library, not a live YouTube feed.
+Links open externally. No videos are downloaded or rehosted. The first two playlist labels are editorial because their actual titles could not be retrieved. Playlist cards use photographs from Dan’s website as collection artwork, rather than actual video thumbnails. Photo sources are recorded in `mobile/assets/photos/SOURCES.md`. This is a static curated library, not a live YouTube feed.
 
 ## Store release work still required
 
